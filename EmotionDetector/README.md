@@ -1,3 +1,8 @@
+# Final Project
+
+## Emotion Detector Application
+
+This project uses the Watson NLP library to detect emotions in text.
 # Emotion Detector
 
 A small Flask web application that analyzes the emotions in a piece of text
